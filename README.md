@@ -1,7 +1,7 @@
 # Predication and summarizing for news article
 
 ## Summary about project:
-### When user enter his/her text (article, book,...), the progeam will summarizes the text using two different models which are:
+### When user enter his/her text (article, book,...), the program will summarizes the text using two different models which are:
 1. Latent Semantic Analysis model (LSA):
 * It is an efficient technique for extracting out the hidden context of the document, ang the the relations between term in document.
 * Reduce the dimensionality of the original text-based dataset.
